@@ -1,0 +1,59 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.heading {
+  font-family: Roboto;
+  font-size: 36px;
+  color: #0f172a;
+  font-weight: bold;
+}
+
+.container {
+  display: flex;
+  padding: 30px;
+}
+
+.btn1 {
+  background-color: #fbbf24;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin-left: 30px;
+}
+
+.btn2 {
+  background-color: #38bdf8;
+  height: 200px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin-left: 30px;
+}
+
+.btn3 {
+  background-color: #ec4899;
+  height: 300px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  margin-left: 30px;
+}
+
+.box-title {
+  color: white;
+  font-family: Bree Serif;
+  font-size: 22px;
+  font-weight: bold;
+}
